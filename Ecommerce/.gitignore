@@ -1,0 +1,23 @@
+# Binaries
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+
+# Don't commit the database
+app.db
+
+# Don't commit log files
+*.log
